@@ -1,4 +1,4 @@
-<img width="737" height="165" alt="image" src="https://github.com/user-attachments/assets/4904f110-3be7-48d6-b8a2-ffdc4978a1e3" /># POLICY ITERATION ALGORITHM
+## POLICY ITERATION ALGORITHM
 
 ## AIM
 The aim of this experiment is to implement the Policy Iteration Algorithm in Reinforcement Learning to determine the optimal policy and corresponding value function for a given environment. Policy Iteration combines iterative policy evaluation and policy improvement steps to achieve convergence towards an optimal policy.
